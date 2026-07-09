@@ -24,3 +24,4 @@ Op sommige plaatsen vallen de golven in fase samen en hoor je versterking. Op an
 ## Bespreking
 
 Onderzoek welke meetpunten overeenkomen met constructieve en destructieve interferentie. Gebruik het patroon om te verklaren waarom sommige plekken in de ruimte opvallend stil of juist luid zijn.
+

@@ -10,15 +10,11 @@ parts:
       sections:
       - file: Practicum/trillingen_experiment_massa_veer.md
       - file: Practicum/trillingen_experiment_slinger.md
-  - caption: Carousel A
-    chapters:
     - file: carousel_a.md
-    - sections:
+      sections:
       - file: trillingen_theorie.md
       - file: Experiment_A1.md
       - file: Experiment_A2.md
-  - caption: Carousel B
-    chapters:
     - file: Practicum/geluid_theorie.md
       sections:
       - file: Practicum/geluid_experiment_geluidssnelheid.md
