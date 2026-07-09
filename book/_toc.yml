@@ -19,7 +19,10 @@ parts:
       - file: Experiment_A2.md
   - caption: Carousel B
     chapters:
-    - file: carousel_b.md
+    - file: Practicum/geluid_theorie.md
+      sections:
+      - file: Practicum/geluid_experiment_geluidssnelheid.md
+      - file: Practicum/geluid_experiment_interferentie.md
   - caption: Miscellaneous
     chapters:
     - file: references.md
