@@ -4,35 +4,22 @@ format: jb-book
 root: intro.md
 
 parts:
-
-  - caption: Exercises
+  - caption: Practicum
     chapters:
-    - file: exercises.md
+    - file: Practicum/trillingen_theorie.md
       sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/005a.md
-      - file: exercises/006.md
-      - file: exercises/summary
-    - file: syntax_exercises.md
-      sections:
-      - file: syntax_exercises/007.md
-      - file: syntax_exercises/008.md
-      - file: syntax_exercises/009.md
-      - file: syntax_exercises/010.md
-      - file: syntax_exercises/011.md
-      - file: syntax_exercises/012.md
-      - file: syntax_exercises/013.md
-    - file: extensions.md
-      sections:
-      - file: exercises/007.md
-      - file: extension_exercises/017.md
-      - file: extension_exercises/014.md
-      - file: extension_exercises/015.md
-      - file: extension_exercises/016.md
+      - file: Practicum/trillingen_experiment_massa_veer.md
+      - file: Practicum/trillingen_experiment_slinger.md
+  - caption: Carousel A
+    chapters:
+    - file: carousel_a.md
+    - sections:
+      - file: trillingen_theorie.md
+      - file: Experiment_A1.md
+      - file: Experiment_A2.md
+  - caption: Carousel B
+    chapters:
+    - file: carousel_b.md
   - caption: Miscellaneous
     chapters:
     - file: references.md
