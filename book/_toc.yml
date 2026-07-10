@@ -4,6 +4,9 @@ format: jb-book
 root: intro.md
 
 parts:
+  - caption: Implementatie Plan
+    chapters:
+    - file: Implementatieplan.md
   - caption: Carousel A
     chapters:
     - file: Practicum/A-trillingen_theorie.md
