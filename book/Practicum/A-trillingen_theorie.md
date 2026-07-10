@@ -14,7 +14,7 @@ $$ u(t) = Asin(2 \pi ft) $$
 ```
 
 Wet van Hooke
-$$ F_{veer} = -C \cdot u
+$$ F_{veer} = -C \cdot u $$
 
 ``` {dropdown} Met hierin:
 - $F_{veer}$ de kracht in N (Newton)
