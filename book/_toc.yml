@@ -9,6 +9,7 @@ parts:
     - file: Practicum/A-trillingen_theorie.md
     - file: Practicum/A1-Dobber.md
     - file: Practicum/A2-Slingers.md
+    - file: Practicum/A2-slingers.ipynb
   - caption: Carousel B
     chapters:
     - file: Practicum/B-Resonantie_en_interferentie.md
