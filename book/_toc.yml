@@ -4,21 +4,13 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Practicum
+  - caption: Carousel A
     chapters:
-    - file: Practicum/trillingen_theorie.md
-      sections:
-      - file: Practicum/trillingen_experiment_massa_veer.md
-      - file: Practicum/trillingen_experiment_slinger.md
-    - file: carousel_a.md
-      sections:
-      - file: trillingen_theorie.md
-      - file: Experiment_A1.md
-      - file: Experiment_A2.md
-    - file: Practicum/geluid_theorie.md
-      sections:
-      - file: Practicum/geluid_experiment_geluidssnelheid.md
-      - file: Practicum/geluid_experiment_interferentie.md
+    - file: Practicum/A-trillingen_theorie.md
+    - file: Practicum/A1-Dobber.md
+    - file: Practicum/A2-Slingers.md
+    chapters:
+    - file: Practicum/B-Resonantie_en_interferentie.md
   - caption: Miscellaneous
     chapters:
     - file: references.md
