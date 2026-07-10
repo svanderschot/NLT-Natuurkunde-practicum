@@ -3,7 +3,7 @@
 9 slingers met een verschillende lengte, stopwatch, liniaal, GR
 
 ## Stappen:
-- Bepaal van de 9 slingers, met verschillende lengte, de trillingstijd $T$ (experimenteel). Doe dit per lengte 3x en bereken de $T_{gemiddeld­}. 
+- Bepaal van de 9 slingers, met verschillende lengte, de trillingstijd $T$ (experimenteel). Doe dit per lengte 3x en bereken de $T_{gemiddeld­}$. 
 - Verwerk de gegevens in tabellen en teken de $T_{gemiddeld}, {l}$ – grafiek. Je zult een parabolvorm zien met de formule: $l=1/4T^2$. 
 - Controleer dit, door een lineaire grafiek te maken en het richtingscoëfficiënt te bepalen. Zet op de y-as de lengte $l$ en op de x-as $T^2$.
     - Teken de $T^2$, $l$ – grafiek en maak eerst een tabel. 
