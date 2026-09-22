@@ -4,7 +4,7 @@
 
 Een harmonische trilling is een periodieke beweging rondom een evenwichtstand. Wiskunde laat deze beweging zich beschrijven als:
 
-$$ u(t) = Asin(2 \pi ft) $$
+$$ u(t) = A \sin(2 \pi ft) $$
 
 ``` {dropdown} Met hierin:
 - u de uitwijking in m (meter)
@@ -13,12 +13,13 @@ $$ u(t) = Asin(2 \pi ft) $$
 - t de tijd in s (seconde)
 ```
 
-Wet van Hooke
+Wet van Hooke:
+
 $$ F_{veer} = -C \cdot u $$
 
 ``` {dropdown} Met hierin:
 - $F_{veer}$ de kracht in N (Newton)
-- $C$ de veerconstante in $Nm^{-1} (Newton - per meter)
+- $C$ de veerconstante in $Nm^{-1}$ (Newton - per meter)
 - $u$ de uitrekking in m (meter)
 ```
 
@@ -39,9 +40,9 @@ $$
 $$
 
 ``` {dropdown} Met hierin:
-- T de trillingstijd in s (seconde) 
+- T de trillingstijd in $\mathrm{s}$ (seconde) 
 - m de massa in kg (kilogram) 
-- C de veerconstante in $N\cdot m^{-1} (Newton per meter) 
+- C de veerconstante in $\mathrm{N} \cdot \mathrm{m}^{-1} (Newton per meter) 
 ```
 
 
